@@ -10,7 +10,6 @@ int main()
     printf("==========================================\n");
     printf("WELCOME TO THE WORLD OF GUESSING NUMBER\n");
     random = rand() % 100 + 1; // ye 1 se 100 tak number generate karega
-    printf("generated number is = %d\n",random);
    printf("==========================================\n");
     
 
